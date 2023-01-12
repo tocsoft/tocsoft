@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @tocsoft
+- 👀 I’m a generally a c# developer but just as happy in JavaScript and Typescript too.
